@@ -1,0 +1,35 @@
+season,team1,team2,start_date,end_date,match_number,venue,city,toss_winner,toss_decision,player_of_match,umpire1,umpire2,reserve_umpire,match_referee,winner,winner_runs,winner_wickets
+2023,England,Australia,2023/06/16,2023/06/20,1,Edgbaston,Birmingham,England,bat,UT Khawaja,Ahsan Raza,M Erasmus,M Burns,AJ Pycroft,Australia,,2
+2023,Australia,England,2023/06/28,2023/07/02,2,Lord's,London,England,field,SPD Smith,Ahsan Raza,CB Gaffaney,DJ Millns,AJ Pycroft,Australia,43,
+2023,Australia,England,2023/07/06,2023/07/09,3,Headingley,Leeds,England,field,MA Wood,HDPK Dharmasena,Nitin Menon,M Burns,RS Madugalle,England,,3
+2023,West Indies,India,2023/07/12,2023/07/14,4,Windsor Park,Roseau,West Indies,bat,YBK Jaiswal,MA Gough,RA Kettleborough,N Duguid,JJ Crowe,India,141,
+2023,Sri Lanka,Pakistan,2023/07/16,2023/07/20,5,Galle International Stadium,Galle,Sri Lanka,bat,Saud Shakeel,AG Wharf,RJ Tucker,RMPJ Rambukwella,DC Boon,Pakistan,,4
+2023,Australia,England,2023/07/19,2023/07/23,6,Old Trafford,Manchester,England,field,Z Crawley,JS Wilson,Nitin Menon,MJ Saggers,RS Madugalle,,,
+2023,India,West Indies,2023/07/20,2023/07/24,7,Queen's Park Oval,Port of Spain,West Indies,field,Mohammed Siraj,M Erasmus,RA Kettleborough,GO Brathwaite,JJ Crowe,,,
+2023,Sri Lanka,Pakistan,2023/07/24,2023/07/27,8,Sinhalese Sports Club Ground,Colombo,Sri Lanka,bat,Abdullah Shafique,AG Wharf,CB Gaffaney,,DC Boon,Pakistan,222,
+2023,England,Australia,2023/07/27,2023/07/31,9,Kennington Oval,London,Australia,field,CR Woakes,JS Wilson,HDPK Dharmasena,DJ Millns,RS Madugalle,England,49,
+2023/24,Bangladesh,New Zealand,2023/11/28,2023/12/02,10,Sylhet International Cricket Stadium,Sylhet,Bangladesh,bat,Taijul Islam,Ahsan Raza,PR Reiffel,Masudur Rahman,DC Boon,Bangladesh,150,
+2023/24,Bangladesh,New Zealand,2023/12/06,2023/12/09,11,Shere Bangla National Stadium,Dhaka,Bangladesh,bat,GD Phillips,PR Reiffel,RJ Tucker,Tanvir Ahmed,DC Boon,New Zealand,,4
+2023/24,Australia,Pakistan,2023/12/14,2023/12/17,12,Perth Stadium,Perth,Australia,bat,MR Marsh,JS Wilson,RK Illingworth,DM Koch,J Srinath,Australia,360,
+2023/24,India,South Africa,2023/12/26,2023/12/28,13,SuperSport Park,Centurion,South Africa,field,D Elgar,L Rusere,PR Reiffel,Stephen Harris,BC Broad,South Africa,32,
+2023/24,Australia,Pakistan,2023/12/26,2023/12/29,14,Melbourne Cricket Ground,Melbourne,Pakistan,field,PJ Cummins,JS Wilson,MA Gough,PJ Gillespie,J Srinath,Australia,79,
+2023/24,Pakistan,Australia,2024/01/03,2024/01/06,15,Sydney Cricket Ground,Sydney,Pakistan,bat,Aamer Jamal,MA Gough,RK Illingworth,CA Polosak,J Srinath,Australia,,8
+2023/24,South Africa,India,2024/01/03,2024/01/04,16,Newlands,Cape Town,South Africa,bat,Mohammed Siraj,Ahsan Raza,L Rusere,LB Gcuma,BC Broad,India,,7
+2023/24,West Indies,Australia,2024/01/17,2024/01/19,17,Adelaide Oval,Adelaide,Australia,field,TM Head,AT Holdstock,Nitin Menon,Eloise Sheridan,AJ Pycroft,Australia,,10
+2023/24,England,India,2024/01/25,2024/01/28,18,Rajiv Gandhi International Stadium,Hyderabad,England,bat,OJ Pope,CB Gaffaney,PR Reiffel,R Pandit,RB Richardson,England,28,
+2023/24,West Indies,Australia,2024/01/25,2024/01/28,19,Brisbane Cricket Ground,Brisbane,West Indies,bat,S Joseph,Nitin Menon,Sharfuddoula,MW Graham-Smith,AJ Pycroft,West Indies,8,
+2023/24,India,England,2024/02/02,2024/02/05,20,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,bat,JJ Bumrah,CB Gaffaney,M Erasmus,R Pandit,RB Richardson,India,106,
+2023/24,New Zealand,South Africa,2024/02/04,2024/02/07,21,Bay Oval,Mount Maunganui,South Africa,field,R Ravindra,Ahsan Raza,RA Kettleborough,SB Haig,J Srinath,New Zealand,281,
+2023/24,South Africa,New Zealand,2024/02/13,2024/02/16,22,Seddon Park,Hamilton,South Africa,bat,W O'Rourke,Ahsan Raza,RK Illingworth,Kim Cotton,J Srinath,New Zealand,,7
+2023/24,India,England,2024/02/15,2024/02/18,23,Saurashtra Cricket Association Stadium,Rajkot,India,bat,RA Jadeja,JS Wilson,HDPK Dharmasena,J Madanagopal,JJ Crowe,India,434,
+2023/24,England,India,2024/02/23,2024/02/26,24,JSCA International Stadium Complex,Ranchi,England,bat,Dhruv Jurel,HDPK Dharmasena,RJ Tucker,J Madanagopal,JJ Crowe,India,,5
+2023/24,Australia,New Zealand,2024/02/29,2024/03/03,25,Basin Reserve,Wellington,New Zealand,field,C Green,M Erasmus,MA Gough,WR Knights,RS Madugalle,Australia,172,
+2023/24,England,India,2024/03/07,2024/03/09,26,Himachal Pradesh Cricket Association Stadium,Dharamsala,England,bat,Kuldeep Yadav,JS Wilson,RJ Tucker,J Madanagopal,JJ Crowe,India,64,
+2023/24,New Zealand,Australia,2024/03/08,2024/03/11,27,Hagley Oval,Christchurch,Australia,field,AT Carey,M Erasmus,Nitin Menon,CM Brown,RS Madugalle,Australia,,3
+2023/24,Sri Lanka,Bangladesh,2024/03/22,2024/03/25,28,Sylhet International Cricket Stadium,Sylhet,Bangladesh,field,DM de Silva,CB Gaffaney,RK Illingworth,Masudur Rahman,JJ Crowe,Sri Lanka,328,
+2023/24,Sri Lanka,Bangladesh,2024/03/30,2024/04/03,29,Zahur Ahmed Chowdhury Stadium,Chattogram,Sri Lanka,bat,PHKD Mendis,RK Illingworth,RJ Tucker,Gazi Sohel,JJ Crowe,Sri Lanka,192,
+2024,West Indies,England,2024/07/10,2024/07/12,30,Lord's,London,England,field,AAP Atkinson,Nitin Menon,RJ Tucker,RJ Warren,J Srinath,England,114,
+2024,England,West Indies,2024/07/18,2024/07/21,31,Trent Bridge,Nottingham,West Indies,field,OJ Pope,AT Holdstock,RJ Tucker,AG Wharf,J Srinath,England,241,
+2024,West Indies,England,2024/07/26,2024/07/28,32,Edgbaston,Birmingham,West Indies,bat,MA Wood,AT Holdstock,Nitin Menon,RJ Warren,J Srinath,England,,10
+2024,South Africa,West Indies,2024/08/07,2024/08/11,33,Queen's Park Oval,Port of Spain,South Africa,bat,KA Maharaj,Ahsan Raza,RK Illingworth,GO Brathwaite,AJ Pycroft,,,
+2024,South Africa,West Indies,2024/08/15,2024/08/17,34,Providence Stadium,Providence,South Africa,bat,PWA Mulder,Ahsan Raza,Sharfuddoula,GO Brathwaite,AJ Pycroft,South Africa,40,
